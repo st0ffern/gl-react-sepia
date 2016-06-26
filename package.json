@@ -16,7 +16,5 @@
     "url": "https://github.com/stoffern/gl-react-sepia/issues"
   },
   "homepage": "https://github.com/stoffern/gl-react-sepia#readme",
-  "dependencies": {
-    "gl-react-color-matrix": "^1.1.0"
-  }
+  "dependencies": {}
 }
