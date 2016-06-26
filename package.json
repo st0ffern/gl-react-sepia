@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/stoffern/gl-react-sepia.git"
   },
-  "author": "stoffern",
+  "author": "Kristoffer Klevenberg",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/stoffern/gl-react-sepia/issues"
