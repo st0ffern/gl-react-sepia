@@ -1,0 +1,22 @@
+{
+  "name": "gl-react-sepia",
+  "version": "1.0.0",
+  "description": "Universal gl-react effect to sepia",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoffern/gl-react-sepia.git"
+  },
+  "author": "stoffern",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stoffern/gl-react-sepia/issues"
+  },
+  "homepage": "https://github.com/stoffern/gl-react-sepia#readme",
+  "dependencies": {
+    "gl-react-color-matrix": "^1.1.0"
+  }
+}
