@@ -1,7 +1,7 @@
 import React,{ Component } from 'react';
 
 import {Surface} from 'gl-react-dom'
-import Sepia from '../src/Sepia'
+import {Sepia} from '../src/'
 const {Image: GLImage} = require('gl-react-image');
 
 export default class App extends Component {
