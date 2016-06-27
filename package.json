@@ -1,6 +1,6 @@
 {
   "name": "gl-react-sepia",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Universal gl-react effect to sepia",
   "main": "lib/index.js",
   "scripts": {

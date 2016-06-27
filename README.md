@@ -8,7 +8,7 @@
 ## Usage Examples
 
 ```js
-var Sepia = require("gl-react-sepia").Negative;
+var Sepia = require("gl-react-sepia").Sepia;
 // or
 import {Sepia} from "gl-react-sepia";
 ```
