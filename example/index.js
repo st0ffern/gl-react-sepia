@@ -10,7 +10,7 @@ export default class App extends Component {
     return (
       <div className="wrapper">
         <Surface width={450} height={300}>
-          <Sepia sepia={5}>
+          <Sepia sepia={1.5}>
             <GLImage
               source={{
                 uri: "https://unsplash.it/450/350?image=300", 

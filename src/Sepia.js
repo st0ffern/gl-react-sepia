@@ -39,12 +39,15 @@ module.exports = GL.createComponent(
       shader={shaders.Sepia}
       uniforms={{ t, sepia }}
     />;
-    
   },
   {
     displayName: "Sepia",
+    defaultProps: {
+      sepia: 0,
+    },
     propTypes: {
-      children: PropTypes.any.isRequired
+      children: PropTypes.any.isRequired,
+      sepia: PropTypes.number,
     }
   }
 );
