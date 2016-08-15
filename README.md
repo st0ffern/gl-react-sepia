@@ -1,5 +1,4 @@
-# gl-react-sepia ![](https://img.shields.io/npm/v/gl-react-sepia.svg) ![](https://img.shields.io/badge/gl--react->= 2.1-05F561.svg) ![](https://img.shields.io/badge/gl--react-dom%20%7C%20native-f90.svg)
-
+# gl-react-sepia [![](https://img.shields.io/npm/v/gl-react-sepia.svg)](https://www.npmjs.com/package/gl-react-sepia) [![Travis](https://img.shields.io/travis/stoffern/gl-react-sepia.svg?maxAge=2592000)]() [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 ## Props
 
 - `children` **(required)**: the content to negate.
