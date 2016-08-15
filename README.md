@@ -3,7 +3,7 @@
 ## Props
 
 - `children` **(required)**: the content to negate.
-- `sepia`: optionally the intensity of the effect. 1.0 is normal. higher than 1 will add sepia.
+- `sepia`: optionally the intensity of the effect. 0 is normal. higher than 0 will add sepia.
 
 ## Usage Examples
 
