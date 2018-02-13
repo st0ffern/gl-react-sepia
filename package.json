@@ -21,7 +21,9 @@
     "url": "https://github.com/stoffern/gl-react-sepia/issues"
   },
   "homepage": "https://github.com/stoffern/gl-react-sepia#readme",
-  "dependencies": {},
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
   "devDependencies": {
     "babel-cli": "^6.4.5",
     "babel-preset-es2015": "^6.3.13",
